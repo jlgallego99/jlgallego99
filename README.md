@@ -21,8 +21,8 @@ I'm Jose Luis Gallego, a Computer Science student at the University of Granada i
  <summary><b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Alexmnzlms&show_icons=true&theme=midnight-purple&line_height=27?count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmnzlms&theme=midnight-purple&langs_count=10&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jlgallego99&show_icons=true&theme=midnight-purple&line_height=27?count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jlgallego99&theme=midnight-purple&langs_count=10&layout=compact">
   
 </p>
 </details>
