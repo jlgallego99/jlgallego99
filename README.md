@@ -21,7 +21,6 @@ I'm Jose Luis Gallego, a Computer Science student at the University of Granada i
 [<img align="left" alt="gRPC" height="30px" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.svg"/>](https://en.wikipedia.org/wiki/GRPC)
 [<img align="left" alt="Mongo" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png"/>](https://en.wikipedia.org/wiki/MongoDB)
 [<img align="left" alt="Docker" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png"/>](https://en.wikipedia.org/wiki/Docker_(software))
-[<img align="left" alt="Arduino" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Arudino_Logo.svg/1280px-Arudino_Logo.svg.png"/>](https://en.wikipedia.org/wiki/Arduino)
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
 
 <br/>
