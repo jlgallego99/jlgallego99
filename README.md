@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jose Luis Gallego, a Computer Science student at the University of Granada interested in software development. You can find here both my personal projects and class assignments!
+I'm Jose Luis Gallego, a software developer. You can find here both my personal projects and class assignments!
 
 ### 💾 Languages I know and use
 
@@ -17,6 +17,7 @@ I'm Jose Luis Gallego, a Computer Science student at the University of Granada i
 ### 🚀 Technologies I like and use
 
 [<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
+[<img align="left" alt="Laravel" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>](https://en.wikipedia.org/wiki/Laravel)
 [<img align="left" alt="Node" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png"/>](https://en.wikipedia.org/wiki/Node.js)
 [<img align="left" alt="gRPC" height="30px" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.svg"/>](https://en.wikipedia.org/wiki/GRPC)
 [<img align="left" alt="Mongo" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png"/>](https://en.wikipedia.org/wiki/MongoDB)
