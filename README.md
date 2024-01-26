@@ -5,6 +5,7 @@ I'm Jose Luis Gallego, a software developer. You can find here both my personal 
 ### 💾 Languages I know and use
 
 [<img align="left" alt="Go" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png"/>](https://en.wikipedia.org/wiki/Go_(programming_language))
+[<img align="left" alt="PHP" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>](https://en.wikipedia.org/wiki/PHP)
 [<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>](https://en.wikipedia.org/wiki/JavaScript)
